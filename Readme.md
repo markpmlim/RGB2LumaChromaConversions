@@ -40,7 +40,7 @@ The following output was captured from a frame of the demo.
 
 ![](Documentation/DestChromaTexture.png)
 
-The background colour is White!
+Because the background colour is White, you would have to download this image and view it with a Picture Viewer like PreView.
 
 <br />
 <br />
