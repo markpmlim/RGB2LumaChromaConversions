@@ -40,6 +40,8 @@ The following output was captured from a frame of the demo.
 
 ![](Documentation/DestChromaTexture.png)
 
+The background colour is White!
+
 <br />
 <br />
 <br />
